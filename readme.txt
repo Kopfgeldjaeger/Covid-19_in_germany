@@ -1,0 +1,1 @@
+to creat a .gif to show how many Covid-19 infection in Germany until 12:00 27_02_2020.
